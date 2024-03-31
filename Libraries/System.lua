@@ -334,10 +334,13 @@ local function addMainDesktopMenuItem(menu)
 		container.layout:removeChildren()
 		
 		local lines = {
-			"MineOS",
-			"Copyright © 2014-" .. os.date("%Y", system.getTime()),
+			"HeckOS Soloma",
+			"Copyright © 2058-" .. os.date("%Y", system.getTime()),
 			" ",
-			"Developers:",
+			"Developers of HeckOS Soloma",
+			"Plush Persik",
+			"Michael AMD",
+			"Developers of MineOS:",
 			" ",
 			"Igor Timofeev, vk.com/id7799889",
 			"Gleb Trifonov, vk.com/id88323331",
