@@ -38,7 +38,7 @@ local
 	input,
 	internetExecute =
 
-	"MineOS EFI",
+	"HeckOS EFI",
 	"Change label",
 	"key_down",
 	"component_added",
