@@ -1,5 +1,5 @@
-local audio = {}
+--local audio = {}
 
-function playaudio(audio, looped, volume, pitch, speed)
-   computer.beep()
-end
+--function playaudio(audio, looped, volume, pitch, speed)
+   
+--end
